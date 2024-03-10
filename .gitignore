@@ -85,3 +85,5 @@ db.sqlite3
 .idea/
 
 .DS_Store
+
+__pycache__/
